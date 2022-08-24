@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Formulário</title>
+</head>
+<body>
+    <form action="Processa-dados">
+
+        <fieldset> <!--cria seções dentro do formulário-->
+            <legend>Dados Gerais</legend>
+            <label for="nome">Nome:</label> <!--descreva para que serve cada campo do formulário.-->
+            <input type="text" minlength="3" id="nome " required> 
+
+            <label for="data nascimento">Data Nascimento:</label>
+            <input type="text" id="data_nascimento">
+
+            <label for="cpf">CPF:</label>
+            <input type="text" id="cpf">
+        </fieldset>
+        <fieldset>
+            <legend>Endereço</legend>
+            <label for="tipo_endereco">Endereço</label>
+            <select id="tipo_endereco">
+                <option value="">Selecione</option>
+                <option value="">Rua</option>
+                <option value="">Estrada</option>
+                <option value="">Rodovia</option>
+                <option value="">Outro</option>
+            </select>
+            <label for="logradouro_endereco">Logradouro:</label>
+            <input type="text" id="logradouro_endereco">
+
+            <label for="n_endereco">N-</label>
+            <input type="text" id="n_endereco">
+        </fieldset>
+        <fieldset>
+            <legend>Fale Conosco</legend>
+            <label for="msg">Mensagem:</label>
+            <textarea id="msg" cols="30" rows="10"></textarea>
+        </fieldset>
+        <fieldset>
+            <button type="submit">Enviar Mensagem</button>
+            <button type="reset">Limpar o Formulário</button>
+        </fieldset>
+    </form>
+</body>
+</html>
