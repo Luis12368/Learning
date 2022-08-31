@@ -1,1 +1,0 @@
-print("Essa é uma 'String' (str).")
