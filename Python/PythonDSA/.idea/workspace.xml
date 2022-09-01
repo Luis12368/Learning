@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d25fa3da-5245-43df-94fa-34181ae72a4f" name="Changes" comment="" />
+    <list default="true" id="d25fa3da-5245-43df-94fa-34181ae72a4f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Praticando python/.idea/Introducao python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Praticando python/.idea/Introducao python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Praticando python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Praticando python/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Praticando python/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Praticando python/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +36,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "last_opened_file_path": "D:/Programacao/Learning/Python/Praticando python",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -43,5 +50,19 @@
       <updated>1661989138371</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
