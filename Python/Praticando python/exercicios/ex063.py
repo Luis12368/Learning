@@ -1,4 +1,4 @@
-n = int(input('Qunatos termos você quer ver? '))
+n = int(input('Quantos termos você quer ver? '))
 t1 = 0
 t2 = 1
 cont = 3
